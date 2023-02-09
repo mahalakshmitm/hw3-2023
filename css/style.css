@@ -118,6 +118,6 @@ p{
     margin-left: 50px;
     margin-bottom: 10px;
     line-height: 1;
-    list-style-image: url('/images/sketchbook.png');
+    list-style-image: url('../images/sketchbook.png');
     /* Set margin, line-spacing, list styling  */
 }
